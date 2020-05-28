@@ -5,7 +5,7 @@
 Bikeshare Information Tracking
 
 ### Description
-This project provides the user with information from Motivate, which is a bikeshare company based in the United States.
+This project uses data from Motivate, a company that facilitates bikeshare rides in the United States.
 Data available is for 3 major cities:
 1. Chicago
 2. New York City
