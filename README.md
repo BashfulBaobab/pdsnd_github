@@ -12,11 +12,11 @@ Data available is for 3 major cities:
 3. Washington DC
 
 ### Files used
-bikeshare.py : Source code for the project
-chicago.csv : Data for Chicago
-new_york_city.csv : Data for New York City
-washington.csv : Data for Washington DC
+bikeshare.py : Source code for the project  
+chicago.csv : Data for Chicago  
+new_york_city.csv : Data for New York City  
+washington.csv : Data for Washington DC  
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/github/gitignore
+https://stackoverflow.com/questions/1514054/how-do-i-delete-a-local-repository-in-git
