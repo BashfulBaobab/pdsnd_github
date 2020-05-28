@@ -2,7 +2,7 @@
 28-05-2020
 
 ### Project Title
-Bikeshare Information Tracking
+Motivate-ing Bikeshare in the United States
 
 ### Description
 This project uses data from Motivate, a company that facilitates bikeshare rides in the United States.
