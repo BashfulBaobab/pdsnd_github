@@ -68,6 +68,7 @@ def get_filters():
     else:
         day = "all"
     
+    #Watch Spongebob Squarepants, season 1, episode name "Pickles" if you didn't get the joke
     if fil == 3:
         print("\nTo recap, you have decided to view data for {}, and not apply a filter. Daring today, aren't we?".format(city))
     print('-'*40)
