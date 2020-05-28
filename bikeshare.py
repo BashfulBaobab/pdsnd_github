@@ -45,7 +45,6 @@ def get_filters():
         else:
             break
 
-    # TO DO: get user input for month (all, january, february, ... , june)
     
     if fil == 1:
         month_dict = {"January": 1, "February": 2, "March": 3, "April": 4, "May": 5, "June": 6}
